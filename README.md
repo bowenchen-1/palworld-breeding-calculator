@@ -21,7 +21,7 @@ Try the live tool at [palworldguide.net](https://palworldguide.net) - it's free 
 
 ## Screenshots
 
-Screenshots coming soon.
+![Palworld Breeding Calculator screenshot](screenshots/breeding-calculator.png)
 
 ## License
 
